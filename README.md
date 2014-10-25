@@ -1,3 +1,3 @@
 R_tutorials
 ===========
-##### Download the content of by clicking on "Download ZIP"
+##### Click on "Download ZIP" on the rightmost part of the window and extract the zip file to view the content.
